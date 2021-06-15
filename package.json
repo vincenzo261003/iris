@@ -1,0 +1,19 @@
+{
+  "name": "iris",
+  "version": "4.0.0",
+  "main": "index.js",
+  "author": "vincenzo261003",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "commands": "0.0.7",
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.2.0",
+    "expr-eval": "^2.0.2",
+    "ffmpeg-static": "^4.3.0",
+    "humanize": "0.0.9",
+    "node-opus": "^0.3.3",
+    "node-superfetch": "^0.1.10",
+    "prism-media": "^1.2.3",
+    "snekfetch": "^4.0.4"
+  }
+}
